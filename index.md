@@ -6,7 +6,8 @@ layout: default
 # Katie's Analysis for COMP 110 Continuous Improvement
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img width="221" height="133" alt="image" src="https://github.com/user-attachments/assets/ffef2a5a-5ebb-402a-b525-3a74456b0789" />
+
 
 ## Idea
 
@@ -14,15 +15,18 @@ For this assignment I analyzed how students' reported understanding of course ma
 
 ## Analysis
 
-Using the data from the course survey I created 1. a bar graph of year in school vs. course understanding, 2. a scatterplot of the relationship between understanding, percieved helpfulness of pre lecture videos, and year in school, and 3. a line plot of the aforementioned data. 
+Using the data from the course survey I created 1. a bar graph of year in school vs. course understanding, 2. a scatterplot of the relationship between understanding and perceived helpfulness of pre-lecture videos, grouped by year in school and 3. a line plot of this relationship. 
 
 <img width="505" height="484" alt="image" src="https://github.com/user-attachments/assets/8ba9228d-6f95-4b4d-b636-cd1065c3dfed" />
+Bar graph of year in class vs. perceived course understanding. 
 
-Year in class vs. perceived course understanding. 
 
 <img width="557" height="484" alt="image" src="https://github.com/user-attachments/assets/d37cd9b3-eed2-494a-878c-a57d35150936" />
+Scatterplot of understanding vs. perceived helpfulness of pre-lecture videos, grouped by year in school 
+
 
 <img width="557" height="484" alt="image" src="https://github.com/user-attachments/assets/3dda7f67-21aa-4dd2-851d-ca503e027f52" />
+Line plot of understanding vs. perceived helpfulness of pre-lecture videos, grouped by year in school 
 
 
 ## Conclusions
