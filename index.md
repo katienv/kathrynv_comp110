@@ -17,16 +17,16 @@ For this assignment I analyzed how students' reported understanding of course ma
 
 Using the data from the course survey I created 1. a bar graph of year in school vs. course understanding, 2. a scatterplot of the relationship between understanding and perceived helpfulness of pre-lecture videos, grouped by year in school and 3. a line plot of this relationship. 
 
+
+# Bar graph of year in class vs. perceived course understanding. 
+
 <img width="505" height="484" alt="image" src="https://github.com/user-attachments/assets/8ba9228d-6f95-4b4d-b636-cd1065c3dfed" />
-Bar graph of year in class vs. perceived course understanding. 
 
-
+# Scatterplot of understanding vs. perceived helpfulness of pre-lecture videos, grouped by year in school 
 <img width="557" height="484" alt="image" src="https://github.com/user-attachments/assets/d37cd9b3-eed2-494a-878c-a57d35150936" />
-Scatterplot of understanding vs. perceived helpfulness of pre-lecture videos, grouped by year in school 
 
-
+# Line plot of understanding vs. perceived helpfulness of pre-lecture videos, grouped by year in school 
 <img width="557" height="484" alt="image" src="https://github.com/user-attachments/assets/3dda7f67-21aa-4dd2-851d-ca503e027f52" />
-Line plot of understanding vs. perceived helpfulness of pre-lecture videos, grouped by year in school 
 
 
 ## Conclusions
